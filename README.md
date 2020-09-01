@@ -7,3 +7,6 @@ It allows us to __add plenty of sounds in the folder *sounds* which will be disp
 The user can control the level and the balance of each sound.
 
 You can see a report in french on the project, and its usage in the hospitals, in the *README*'s folder.
+
+In its Github's form, the software isn't provided as an executable programm, but *setup.py* is made to help you create it using Cx_freeze. 
+You can see an explanation step by step in the documentation. 
